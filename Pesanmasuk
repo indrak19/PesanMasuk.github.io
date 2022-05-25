@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pesan Masuk!!!</title>
+    </head>
+    <body>
+        <script> 
+            yakin = confirm("Apakah Kamu Manusia?");
+                if (yakin){
+                            confirm("sungguh kamu manusia?");
+                            document.write("Selamat anda manusia")
+                        }
+                       
+                        
+                    else {
+                        confirm("kenapa tidak?");
+                         document.write("okey mantul");}
+        </script>
+    </body>
+</html>
